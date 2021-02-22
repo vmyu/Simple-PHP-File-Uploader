@@ -1,7 +1,7 @@
 <html>
 <body>
 
-Version 1
+Version 1 - Test text!
 
 <form action = "upload.php" method = "post" enctype ="multipart/form-data">
 
